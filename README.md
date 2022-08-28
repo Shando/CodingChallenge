@@ -26,6 +26,7 @@ I have chosen the above as I also had to learn NUnit / Selenium / XPath at the s
 All Tests can be run from Test Explorer in Visual Studio. NB: Test Explorer will automatically run the build of the tests.
 
 #Improvements:
+
 With more time, I could expand the tests to include such things as running a loop for the 'Search' and 'Add to Cart' tests to check different search terms and different products.
 
 #Software Used
