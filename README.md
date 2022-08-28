@@ -27,7 +27,7 @@ All Tests can be run from Test Explorer in Visual Studio. NB: Test Explorer will
 
 #Improvements:
 
-With more time, I could expand the tests to include such things as running a loop for the 'Search' and 'Add to Cart' tests to check different search terms and different products.
+With more time, I could expand the tests to include such things as running a loop for the 'Search' and 'Add to Cart' tests to check different search terms and different products. I would also implement a Page Object Model (POM), where each page would have it's own class with methods to access the elements on that page.
 
 #Software Used
 
